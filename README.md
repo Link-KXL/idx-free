@@ -13,7 +13,7 @@ bash install.sh
 ```
 ## vps或者软路由安装火狐
 ```
-bash <(curl -l -s https://raw.githubusercontent.com/byJoey/idx-free/refs/heads/main/Firefox.sh)
+bash <(curl -l -s https://raw.githubusercontent.com/byJoey/Link-KXL/refs/heads/main/Firefox.sh)
 ```
 ## 核心改动说明
 
